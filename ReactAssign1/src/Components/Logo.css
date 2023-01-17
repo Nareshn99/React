@@ -1,0 +1,12 @@
+.logo-body {
+    flex: 1;
+    display: flex;
+    margin-top: 10%;
+    flex-direction: column;
+}
+
+
+.logo-body img {
+    object-fit: contain;
+    height: 10%;
+}
